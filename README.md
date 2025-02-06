@@ -8,4 +8,7 @@
 ### 修改说明
 在[iissnan](https://github.com/iissnan/iissnan.github.com)的样式基础上，加入[dmego](https://github.com/dmego/home.github.io)的一言接口
 ### 效果预览
-![image](demo.png)
+##### 浅色模式
+![image](demo_light.png)
+##### 深色模式
+![image](demo_dark.png)
